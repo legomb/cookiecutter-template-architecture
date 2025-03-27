@@ -1,3 +1,3 @@
-# Cookiecutter templates
+# Architecture Cookiecutter template
 
-Repository of cookiecutter templates.
+Cookiecutter template for an architecture project.
