@@ -4,13 +4,14 @@ Cookiecutter template for an architecture project.
 
 ## Usage
 
-Run (locally):
+- Run (from local directory):
 
-```sh
-cookiecutter cookiecutter-template-architecture/
-```
+  ```sh
+  cookiecutter <location-of-current-dir>/cookiecutter-template-architecture/
+  ```
+  
+- Run (remotely):
 
-or (remotely):
-```sh
-cookiecutter gh:legomb/cookiecutter-template-architecture
-```
+  ```sh
+  cookiecutter gh:legomb/cookiecutter-template-architecture
+  ```
