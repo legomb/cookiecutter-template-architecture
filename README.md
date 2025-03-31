@@ -1,6 +1,6 @@
-# Architecture Cookiecutter template
+# Architecture Proposal - cookiecutter template
 
-Cookiecutter template for an architecture project.
+Cookiecutter template for an architecture project proposal.
 
 ## Usage
 
@@ -24,4 +24,7 @@ Cookiecutter template for an architecture project.
      cookiecutter gh:legomb/cookiecutter-template-architecture
      ```
 
-    This will prompt some questions and create a new directory with the chosen name.
+    This will prompt some questions:
+      - `new_directory_name`: Name of the directory to be created based on this template
+      - `project_name`: Name of the project
+      - `markdown_file_name`: Proposal filename
