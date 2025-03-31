@@ -4,14 +4,24 @@ Cookiecutter template for an architecture project.
 
 ## Usage
 
-- Run (from local directory):
+1. Install [cookiecutter](https://www.cookiecutter.io/)
+    e.g.:
 
-  ```sh
-  cookiecutter <location-of-current-dir>/cookiecutter-template-architecture/
-  ```
+    ```sh
+    brew install cookiecutter
+    ```
   
-- Run (remotely):
+2. Run:
+   - From local directory:
 
-  ```sh
-  cookiecutter gh:legomb/cookiecutter-template-architecture
-  ```
+     ```sh
+     cookiecutter <location-of-current-dir>/cookiecutter-template-architecture/
+     ```
+     
+   - Remotely:
+
+     ```sh
+     cookiecutter gh:legomb/cookiecutter-template-architecture
+     ```
+
+    This will prompt some questions and create a new directory with the chosen name.
