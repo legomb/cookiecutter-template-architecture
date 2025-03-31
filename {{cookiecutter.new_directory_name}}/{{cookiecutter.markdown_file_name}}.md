@@ -134,11 +134,8 @@ UpdateRelStyle(ma, accounts, $offsetY="-40")
 
 #### Level 4 - Dynamic Diagram
 
-![something like this](https://github.com/nikeshnaik/streaming_cricket_analysis/blob/main/high_level_data_architecture.png)
-
 #### Level 5 - Deployment Diagram
 
 ### Deliverables
 
 ### Roadmap
-
