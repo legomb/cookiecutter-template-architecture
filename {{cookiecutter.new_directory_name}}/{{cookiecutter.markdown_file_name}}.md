@@ -138,4 +138,22 @@ UpdateRelStyle(ma, accounts, $offsetY="-40")
 
 ### Deliverables
 
+# | Name | Description | Effort
+---------|----------|---------|---------
+ 1 | B1 | C1 | Low
+ 2 | B2 | C2 | Med
+ 3 | B3 | C3 | High
+
 ### Roadmap
+
+```mermaid
+gantt
+    title Project Roadmap
+    dateFormat YYYY-MM-DD
+    section Section
+        A task          :a1, 2014-01-01, 30d
+        Another task    :after a1, 20d
+    section Another
+        Task in Another :2014-01-12, 12d
+        another task    :24d
+```
