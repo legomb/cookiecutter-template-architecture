@@ -59,7 +59,7 @@ We use the [C4 model](https://c4model.com/) to define the architecture, and merm
 C4Context
 	title System Context diagram for Demo Data Platform
 
-	Person(personUser, "User", "A user of the Dream Data Platform, e.g. Data Engineer or Business Analyst")
+	Person(personUser, "User", "A user of the Data Platform, e.g. Data Engineer or Business Analyst")
 
     System_Boundary(sbCI, "Demo Data Platform") {
 		System(SystemOrchestrator, "Orchestrator App", "Manages Pipelines")
@@ -78,7 +78,7 @@ C4Context
 C4Container
 title Container diagram for Demo Data Platform
 
-Person(personUser, "User", "A user of the Dream Data Platform, e.g. Data Engineer or Business Analyst")
+Person(personUser, "User", "A user of the Data Platform, e.g. Data Engineer or Business Analyst")
 
 Container_Boundary(c1, "Orchestrator") {
 	Container(ContainerOrchestrator, "Orchestrator App", "kestra.io", "Provides orchestration functionality to users via their web browser")
