@@ -138,7 +138,7 @@ UpdateRelStyle(ma, accounts, $offsetY="-40")
 
 ### Deliverables
 
-# | Name | Description | Effort
+Number | Name | Description | Effort
 ---------|----------|---------|---------
  1 | B1 | C1 | Low
  2 | B2 | C2 | Med
